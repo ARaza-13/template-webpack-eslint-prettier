@@ -1,0 +1,7 @@
+# Ignore artifcats:
+node_modules
+build
+coverage
+.DS_Store
+CVS
+Thumbs.db
